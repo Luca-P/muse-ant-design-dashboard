@@ -51,6 +51,7 @@
     "@aws-amplify/backend": "^1.6.0",
     "@aws-amplify/backend-cli": "^1.4.0",
     "@babel/core": "^7.16.0",
+    "@types/react-router-dom": "^5.3.3",
     "aws-cdk": "^2.165.0",
     "aws-cdk-lib": "^2.165.0",
     "constructs": "^10.4.2",
