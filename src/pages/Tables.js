@@ -25,7 +25,7 @@ import {
 
 import { ToTopOutlined } from "@ant-design/icons";
 import { Link } from "react-router-dom";
-
+import React, { Component } from "react";
 // Images
 import ava1 from "../assets/images/logo-shopify.svg";
 import ava2 from "../assets/images/logo-atlassian.svg";

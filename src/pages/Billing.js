@@ -20,7 +20,7 @@ import {
   Descriptions,
   Avatar,
 } from "antd";
-
+import React, { Component } from "react";
 import { PlusOutlined, ExclamationOutlined } from "@ant-design/icons";
 import mastercard from "../assets/images/mastercard-logo.png";
 import paypal from "../assets/images/paypal-logo-2.png";

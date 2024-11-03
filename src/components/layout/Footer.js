@@ -12,7 +12,7 @@
 
 import { Layout, Row, Col } from "antd";
 import { HeartFilled } from "@ant-design/icons";
-
+import React, { Component } from "react";
 function Footer() {
   const { Footer: AntFooter } = Layout;
 
